@@ -26,7 +26,7 @@ body{
     display: inline-block;
     border-radius: 50%;
     margin-top: 30px;
-    background-image: url(Anant.jpg.jpg);
+    background-image: url(Anant.jpg);
     background-size:cover;
     
     
@@ -85,6 +85,16 @@ p{
     display: inline-block;
 
 }
+
+#strip{
+   background-color: black;
+    position: absolute;
+    top: 0;
+    left: 685px;
+    height: 200px;
+    width: 28px;
+}
+
 
 
 
