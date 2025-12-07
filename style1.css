@@ -9,7 +9,8 @@ body{
     height: 100px;
     width: 100px;
     background-color: black;
-    background-image: url(Anant.jpg.jpg);
+    background-image: url(Anant.jpg);
     background-size:cover;
     border-radius: 50%;
+
 }
